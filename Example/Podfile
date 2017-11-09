@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CHOArchiver_Example' do
+  pod 'CHOArchiver', :path => '../'
+
+  target 'CHOArchiver_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
