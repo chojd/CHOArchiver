@@ -22,7 +22,7 @@ pod 'CHOArchiver'
 
 ## Author
 
-chojd, jingda.cao@mfashion.com.cn
+chojd, jingda.cao@gmail
 
 ## License
 

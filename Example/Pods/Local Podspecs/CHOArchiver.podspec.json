@@ -1,0 +1,23 @@
+{
+  "name": "CHOArchiver",
+  "version": "0.1.0",
+  "summary": "Easy Archiver.",
+  "description": "Easy Archiver.",
+  "homepage": "https://github.com/chojd/CHOArchiver",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chojd": "jingda.cao@gmail"
+  },
+  "source": {
+    "git": "https://github.com/chojd/CHOArchiver.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/JingdaCao",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "Sources/*"
+}

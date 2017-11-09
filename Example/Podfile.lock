@@ -1,0 +1,16 @@
+PODS:
+  - CHOArchiver (0.1.0)
+
+DEPENDENCIES:
+  - CHOArchiver (from `../`)
+
+EXTERNAL SOURCES:
+  CHOArchiver:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CHOArchiver: df0af1f69e8a9f42cb54ba2a960189a4f37be523
+
+PODFILE CHECKSUM: 31d871fc155b6f7bbf117e08a45bb2f1fa462fb3
+
+COCOAPODS: 1.4.0.beta.2

@@ -1,0 +1,6 @@
+framework module CHOArchiver {
+  umbrella header "CHOArchiver-umbrella.h"
+
+  export *
+  module * { export * }
+}
